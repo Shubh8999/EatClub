@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7482867851",
+    "project_id": "eatclub-6b117",
+    "storage_bucket": "eatclub-6b117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7482867851:android:f3912a1e89eb6fa5d0948e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7482867851-451p5pr6i812bkg30fj81jj9opjaf6t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAse0K2gQkJQIi1eBCYaQPVwVKZAqyM_XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7482867851-451p5pr6i812bkg30fj81jj9opjaf6t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
